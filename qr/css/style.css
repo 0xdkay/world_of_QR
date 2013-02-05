@@ -1,0 +1,19 @@
+
+body {
+	background: black;
+	font: 12px;
+	color: lightgreen;
+}
+
+a {
+	color: lightgreen;
+}
+
+a:visited {
+	color: green;
+}
+
+a:hover {
+	color: lightblue;
+}
+
